@@ -7,15 +7,15 @@ Gem::Specification.new do |spec|
   spec.name          = "football_league"
   spec.version       = FootballLeague::VERSION
   spec.authors       = ["Haseeb Ahmad"]
-  spec.email         = ["haseeb.ahmad@ebryx.com"]
+  spec.email         = ["haseeb.ahmad717@gmail.com"]
 
   if spec.respond_to?(:metadata)
     spec.metadata['allowed_push_host'] = "TODO: Set to 'http://mygemserver.com' to prevent pushes to rubygems.org, or delete to allow pushes to any server."
   end
 
   spec.summary       = %q{FootballLeague.}
-  spec.description   = %q{FootballLeague.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.description   = %q{FootballLeague. }
+  spec.homepage      = "https://github.com/Haseeb717/football_league.git"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
