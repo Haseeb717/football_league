@@ -1,9 +1,8 @@
 # FootballLeague
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/football_league`. To experiment with that code, run `bin/console` for an interactive prompt.
+Welcome to my new gem! In this gem, you'll get the list of teams related information multiple soccer leagues in multiple years
 
-TODO: Delete this and the text above, and describe your gem
-
+Its under development
 ## Installation
 
 Add this line to your application's Gemfile:
