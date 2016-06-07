@@ -1,8 +1,7 @@
 # FootballLeague
 
-Welcome to my new gem! In this gem, you'll get the list of teams related information multiple soccer leagues in multiple years
+In this gem, you'll get the winner of multiple soccer leagues in multiple years
 
-Its under development
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -21,8 +20,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+To get the winner of Premier League in any year
 
+```ruby
+FootballLeague::PremierLeague.new.winner(year)
+```
+
+year e.g 2015,2014 etc
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `bin/console` for an interactive prompt that will allow you to experiment.
