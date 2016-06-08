@@ -17,12 +17,6 @@ module FootballLeague
 			  "Manchester United"
 			when 2010
 			  "Chelsea FC"
-			when 2010
-			  "Chelsea FC"
-			when 2010
-			  "Chelsea FC"
-			when 2010
-			  "Chelsea FC"
 			when 2009
 				"Manchester United"
 			when 2008

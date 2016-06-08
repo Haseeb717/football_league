@@ -25,6 +25,11 @@ To get the winner of Premier League in any year
 ```ruby
 FootballLeague::PremierLeague.new.winner(year)
 ```
+To get the winner of La Liga in any year
+
+```ruby
+FootballLeague::LaLiga.new.winner(year)
+```
 
 year e.g 2015,2014 etc
 ## Development
