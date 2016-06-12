@@ -20,6 +20,11 @@ Or install it yourself as:
 
 ## Usage
 
+To get the winner of UEFA in any year
+
+```ruby
+FootballLeague::Uefa.new.winner(year)
+
 To get the winner of Premier League in any year
 
 ```ruby
@@ -35,6 +40,12 @@ To get the winner of BundesLiga in any year
 
 ```ruby
 FootballLeague::BundesLiga.new.winner(year)
+```
+
+To get the winner of Seria A in any year
+
+```ruby
+FootballLeague::SeriaA.new.winner(year)
 ```
 year e.g 2015,2014 etc
 ## Development
