@@ -24,6 +24,7 @@ To get the winner of UEFA in any year
 
 ```ruby
 FootballLeague::Uefa.new.winner(year)
+```
 
 To get the winner of Premier League in any year
 
