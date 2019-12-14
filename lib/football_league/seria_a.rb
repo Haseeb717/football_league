@@ -3,6 +3,12 @@ module FootballLeague
 
     def winner(year)
       puts case year
+      when 2019
+      	"Juventus"
+      when 2018
+			  "Juventus"
+      when 2017
+			  "Juventus"
 			when 2016
 			  "Juventus"
 			when 2015
